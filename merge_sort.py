@@ -1,3 +1,6 @@
+# This is merge sort
+# Copyright 2018 Rohan Nayak Mallick
+
 import random
 import math
 a = []
